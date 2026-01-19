@@ -1,1 +1,1 @@
-console.log("Hey Hi, This is Dipak  here so discuss with project ")
+console.log("Hey Hi, This is Dipak Here and I am learning JavaScript! and testing js conflict demo");
