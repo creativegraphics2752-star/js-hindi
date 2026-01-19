@@ -18,5 +18,5 @@ accountState;
 
 console.log(accountID);
 
-console.table ([accountID, accountEmail, accountPassword, accountcity])
+console.table ([accountID, accountEmail, accountPassword, accountcity, accountState])
 
